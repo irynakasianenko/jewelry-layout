@@ -1,0 +1,47 @@
+@media (max-width: 768px) {
+	header nav {
+		width: 90%;
+	}
+
+	a.menu {
+		font-size: 14px;
+	}
+
+	a.gold {
+		font-size: 16px;
+	}
+
+	h1 {
+		font-size: 30px;
+	}
+
+	h2 {
+		font-size: 26px;
+	}
+}
+
+@media (max-width: 1024px) {
+	main section.about {
+		display: block;
+	}
+
+	main section.about .about-photo, .about-caption {
+		width: 100%;
+	}
+
+	main section.about .about-caption {
+		width: 100%;
+	}
+
+	main section.product {
+		display: block;
+	}
+
+	main section.product .product-left {
+		width: 100%;
+	}
+
+	main section.product .product-right {
+		width: 100%;
+	}
+}
